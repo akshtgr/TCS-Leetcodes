@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Count vowels, consonants, digits, and special characters in a string
 # 1. Define a class Solution.
 # 2. Inside it, create a method count_all that takes a string s and returns a tuple (vowels, consonants, digits, specials).
 # 3. Define a string vowels containing all uppercase and lowercase vowels.
@@ -22,7 +22,6 @@ class Solution:
         consonant_count = 0
         digit_count = 0
         special_count = 0
-        
         for ch in s:
             if ch in vowels:
                 vowel_count += 1
@@ -33,7 +32,6 @@ class Solution:
             else:
                 special_count += 1
         return (vowel_count, consonant_count, digit_count, special_count)
-
 user_input = input("Enter a string: ")
 sol = Solution()
 v, c, d, sp = sol.count_all(user_input)

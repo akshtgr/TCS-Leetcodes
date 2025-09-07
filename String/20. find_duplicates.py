@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Duplicates in the input string
 # 1. Define a class Solution.
 # 2. Inside it, create a method find_duplicates that takes a string s and returns a string of duplicates.
 # 3. Initialize an empty dictionary freq to count character occurrences.

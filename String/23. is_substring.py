@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Check if a string is substring of another
 # 1. Define a class Solution.
 # 2. Inside it, create a method is_substring that takes two strings: text and pattern.
 # 3. Get the lengths of text (n) and pattern (m).

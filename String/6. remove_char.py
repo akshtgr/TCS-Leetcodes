@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Remove character
 # 1. Define a class Solution.
 # 2. Inside it, create a method remove_char that takes two inputs:
 #    - s (the original string)

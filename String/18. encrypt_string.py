@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Encrypt the string
 # 1. Define a class Solution.
 # 2. Inside it, create a method encrypt_string that takes a string s and returns a new string.
 # 3. Initialize an empty result string.

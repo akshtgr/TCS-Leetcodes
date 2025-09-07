@@ -1,4 +1,5 @@
-""" # 1. Define a class Solution.
+""" Remove all characters other than alphabets	
+# 1. Define a class Solution.
 # 2. Inside it, create a method remove_non_alpha that takes a string s and returns a new string.
 # 3. Initialize an empty result string.
 # 4. Loop through each character in s.

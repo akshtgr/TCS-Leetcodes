@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Non Repeating Character
 # 1. Define a class Solution.
 # 2. Inside it, create a method first_non_repeating that takes a string s and returns a character or None.
 # 3. Initialize an empty dictionary freq to store character counts.

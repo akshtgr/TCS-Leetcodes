@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Smallest and Largest Word in a String
 # 1. Define a class Solution.
 # 2. Inside it, create a method smallest_largest_word that takes a string s and returns a tuple (smallest, largest).
 # 3. Initialize an empty list words to store individual words.

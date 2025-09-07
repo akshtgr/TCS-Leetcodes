@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Reverse words in a given string
 # 1. Define a class Solution.
 # 2. Inside it, create a method reverse_words that takes a string s and returns a new string.
 # 3. Initialize an empty list words to store individual words and an empty string word.

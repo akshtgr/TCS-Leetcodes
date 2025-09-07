@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Frequency of characters in a string
 # 1. Define a class Solution.
 # 2. Inside it, create a method char_frequency that takes a string s and returns a dictionary.
 # 3. Initialize an empty dictionary freq to store character counts.

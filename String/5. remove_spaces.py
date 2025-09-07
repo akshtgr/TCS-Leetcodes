@@ -1,4 +1,5 @@
-""" # 1. Define a class Solution.
+""" Remove spaces from a given string	
+# 1. Define a class Solution.
 # 2. Inside it, create a method remove_spaces that takes a string s and returns a new string.
 # 3. Initialize an empty result string.
 # 4. Loop through each character in the input string s.

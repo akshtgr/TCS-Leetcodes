@@ -1,4 +1,5 @@
-"""# Define a class named Solution as per LeetCode-style structure.
+""" ASCII Value of a character	
+# Define a class named Solution as per LeetCode-style structure.
 # Define a method ascii_value that takes a string s and returns an integer.
 # We'll assume s is a single character.
 # Convert the character into its ASCII value using the ord() function.

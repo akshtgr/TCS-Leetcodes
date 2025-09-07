@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Count words in a given string
 # 1. Define a class Solution.
 # 2. Inside it, create a method count_words that takes a string s and returns an integer.
 # 3. Initialize variables count = 0 and in_word = False to track words.

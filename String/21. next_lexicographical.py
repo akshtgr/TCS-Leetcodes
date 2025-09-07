@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Lexicographically next string
 # 1. Define a class Solution.
 # 2. Inside it, create a method next_lexicographical that takes a string s and returns the next lexicographical string.
 # 3. Convert string s to a list of characters for manipulation.

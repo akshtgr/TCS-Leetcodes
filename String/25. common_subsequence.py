@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Common subsequence in two strings
 # 1. Define a class Solution.
 # 2. Inside it, create a method common_subsequence that takes two strings s1 and s2 and returns a string.
 # 3. Initialize an empty string result.

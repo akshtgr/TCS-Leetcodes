@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Sum of numbers in string
 # 1. Define a class Solution.
 # 2. Inside it, create a method sum_of_numbers that takes a string s and returns an integer.
 # 3. Initialize a variable total = 0 to store the sum of digits.

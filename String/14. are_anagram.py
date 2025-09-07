@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Strings are anagram of each other
 # 1. Define a class Solution.
 # 2. Inside it, create a method are_anagrams that takes two strings s1 and s2 and returns a boolean.
 # 3. If lengths of s1 and s2 are different, immediately return False.

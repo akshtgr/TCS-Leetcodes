@@ -1,4 +1,4 @@
-""" # Explanation:
+""" Sort string of characters
 # 1. Define a class Solution.
 # 2. Inside it, create a method sort_string that takes a string s and returns a new string.
 # 3. Convert the string s to a list of characters (for easier swapping).

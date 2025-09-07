@@ -1,4 +1,5 @@
-""" # 1. Define a class Solution.
+""" Remove vowels from a String	
+# 1. Define a class Solution.
 # 2. Inside it, create a method remove_vowels that takes a string s and returns a new string.
 # 3. Define a string vowels containing all uppercase and lowercase vowels.
 # 4. Initialize an empty result string.

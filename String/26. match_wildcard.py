@@ -1,4 +1,4 @@
-""" # Explanation:
+""" One string contains wildcard characters
 # 1. Define a class Solution.
 # 2. Inside it, create a method match_wildcard that takes two strings s and pattern and returns a boolean.
 # 3. '*' in pattern can match any sequence of characters (including empty), '?' matches any single character.

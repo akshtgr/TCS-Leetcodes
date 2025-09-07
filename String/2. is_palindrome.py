@@ -1,4 +1,5 @@
-""" # Define a class named Solution to match the LeetCode-style structure.
+""" Given String is Palindrome or not	
+# Define a class named Solution to match the LeetCode-style structure.
 # Define a method is_palindrome that takes a string s and returns a boolean.
 # Initialize the left pointer i to the start index 0.
 # Initialize the right pointer j to the last index of s (length - 1).
