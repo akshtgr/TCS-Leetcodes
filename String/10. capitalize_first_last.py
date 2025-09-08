@@ -1,4 +1,4 @@
-""" Capitalize first and last character of each word
+""" Capitalize first and last character of each word 
 # 1. Define a class Solution.
 # 2. Inside it, create a method capitalize_first_last that takes a string s and returns a new string.
 # 3. Initialize an empty result string and an empty word string.

@@ -25,7 +25,6 @@ class Solution:
             if freq[ch] > 1:
                 duplicates += ch
         return duplicates
-
 user_input = input("Enter a string: ")
 sol = Solution()
 result = sol.find_duplicates(user_input)
